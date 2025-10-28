@@ -54,6 +54,7 @@ public:
         return sum;
     }
 
+    
     long long subArrayRanges(vector<int>& nums) {
         long long mn = findMin(nums);
         long long mx = findMax(nums);
