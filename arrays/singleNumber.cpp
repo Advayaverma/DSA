@@ -19,3 +19,25 @@ public:
         return -1;
     }
 };
+
+
+// using for each
+
+class Solution {
+public:
+    int singleNumber(vector<int>& nums) {
+        unordered_map <int, int> freq;
+
+        for (int i = 0; i < nums.size(); i++){
+            int num = nums[i];
+            freq[num] += 1;
+        }
+
+        for (auto x : freq){
+            if (x.second == 1){
+                return x.first;
+            }
+        }
+        return -1;
+    }
+};
