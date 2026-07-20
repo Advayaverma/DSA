@@ -25,3 +25,31 @@ public:
         return false;
     }
 };
+
+// or
+
+class Solution {
+public:
+    bool searchMatrix(vector<vector<int>>& matrix, int target) {
+        int rows = matrix.size(), cols = matrix[0].size();
+        int n = rows * cols;
+        int low = 0, high = n - 1;
+
+        while (low <= high){
+            int mid = low + (high - low) / 2;
+            int rowIdx = mid / cols;
+            int colIdx = mid % cols;
+
+            if (matrix[rowIdx][colIdx] == target){
+                return true;
+            }
+            else if (matrix[rowIdx][colIdx] < target){
+                low = mid + 1;
+            }
+            else{
+                high = mid - 1;
+            }
+        }
+        return false;
+    }
+};
