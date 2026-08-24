@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/Advayaverma/DSA/tree/master/0658-find-k-closest-elements) |
+| [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/Advayaverma/DSA/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 ## Two Pointers
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Advayaverma/DSA/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Advayaverma/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2325-decode-the-message](https://github.com/Advayaverma/DSA/tree/master/2325-decode-the-message) |
+| [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/Advayaverma/DSA/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 ## Stack
 |  |
 | ------- |
@@ -58,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2325-decode-the-message](https://github.com/Advayaverma/DSA/tree/master/2325-decode-the-message) |
+## Prefix Sum
+|  |
+| ------- |
+| [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/Advayaverma/DSA/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 <!---LeetCode Topics End-->
