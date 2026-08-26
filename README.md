@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Advayaverma/DSA/tree/master/0204-count-primes) |
 | [0658-find-k-closest-elements](https://github.com/Advayaverma/DSA/tree/master/0658-find-k-closest-elements) |
 | [0890-find-and-replace-pattern](https://github.com/Advayaverma/DSA/tree/master/0890-find-and-replace-pattern) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/Advayaverma/DSA/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
@@ -70,4 +71,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/Advayaverma/DSA/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
+## Math
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Advayaverma/DSA/tree/master/0204-count-primes) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Advayaverma/DSA/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Advayaverma/DSA/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Advayaverma/DSA/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Advayaverma/DSA/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Advayaverma/DSA/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
