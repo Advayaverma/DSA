@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0068-text-justification](https://github.com/Advayaverma/DSA/tree/master/0068-text-justification) |
 | [0204-count-primes](https://github.com/Advayaverma/DSA/tree/master/0204-count-primes) |
 | [0658-find-k-closest-elements](https://github.com/Advayaverma/DSA/tree/master/0658-find-k-closest-elements) |
 | [0890-find-and-replace-pattern](https://github.com/Advayaverma/DSA/tree/master/0890-find-and-replace-pattern) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0068-text-justification](https://github.com/Advayaverma/DSA/tree/master/0068-text-justification) |
 | [0151-reverse-words-in-a-string](https://github.com/Advayaverma/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0647-palindromic-substrings](https://github.com/Advayaverma/DSA/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Advayaverma/DSA/tree/master/0680-valid-palindrome-ii) |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0068-text-justification](https://github.com/Advayaverma/DSA/tree/master/0068-text-justification) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Advayaverma/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Greedy
 |  |
