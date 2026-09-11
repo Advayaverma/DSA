@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/Advayaverma/DSA/tree/master/0068-text-justification) |
+| [0088-merge-sorted-array](https://github.com/Advayaverma/DSA/tree/master/0088-merge-sorted-array) |
 | [0204-count-primes](https://github.com/Advayaverma/DSA/tree/master/0204-count-primes) |
 | [0658-find-k-closest-elements](https://github.com/Advayaverma/DSA/tree/master/0658-find-k-closest-elements) |
 | [0890-find-and-replace-pattern](https://github.com/Advayaverma/DSA/tree/master/0890-find-and-replace-pattern) |
@@ -12,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Advayaverma/DSA/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/Advayaverma/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0647-palindromic-substrings](https://github.com/Advayaverma/DSA/tree/master/0647-palindromic-substrings) |
 | [0658-find-k-closest-elements](https://github.com/Advayaverma/DSA/tree/master/0658-find-k-closest-elements) |
@@ -27,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Advayaverma/DSA/tree/master/0088-merge-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/Advayaverma/DSA/tree/master/0658-find-k-closest-elements) |
 | [0791-custom-sort-string](https://github.com/Advayaverma/DSA/tree/master/0791-custom-sort-string) |
 ## Heap (Priority Queue)
