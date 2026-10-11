@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/Advayaverma/DSA/tree/master/0046-permutations) |
 | [0068-text-justification](https://github.com/Advayaverma/DSA/tree/master/0068-text-justification) |
 | [0088-merge-sorted-array](https://github.com/Advayaverma/DSA/tree/master/0088-merge-sorted-array) |
 | [0204-count-primes](https://github.com/Advayaverma/DSA/tree/master/0204-count-primes) |
@@ -110,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Advayaverma/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/Advayaverma/DSA/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
